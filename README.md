@@ -2,16 +2,12 @@
 
 🎉 Hey there! Welcome to my corner of GitHub — a playful mix of experiments, tiny projects, and the occasional clever hack.
 
-<div align="center">
-
-![Animated Quotes](./assets/quotes.svg)
-
-</div>
-
 ## What's cooking?
 - 🧪 Little experiments in automation and UI design
 - 🔧 Tools I tinker with: Python, Node, and random shell sorcery
 - 🎨 A soft spot for clean, shiny interfaces and quirky micro-interactions
+
+![Fun Banner](https://img.shields.io/badge/hello-world-ff69b4?style=for-the-badge&logo=github)
 
 ---
 
