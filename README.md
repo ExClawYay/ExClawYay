@@ -1,24 +1,34 @@
 # ExClawYay
 
-## StreamElite - Premium IPTV
+🎉 Hey there! Welcome to my corner of GitHub — a playful mix of experiments, tiny projects, and the occasional clever hack.
 
-Welcome — this profile showcases projects and experiments related to streaming infrastructure, automation, and product builds.
+## What's cooking?
+- 🧪 Little experiments in automation and UI design
+- 🔧 Tools I tinker with: Python, Node, and random shell sorcery
+- 🎨 A soft spot for clean, shiny interfaces and quirky micro-interactions
 
-[![Website](https://img.shields.io/badge/website-exclawyay.github.io-blue?style=for-the-badge)](https://exclawyay.github.io/testWebsite/)
-[![Tech](https://img.shields.io/badge/tech-Python%20|%20Node-blue?style=flat-square)]
-
----
-
-### Featured Project
-
-**StreamElite** — a modern IPTV platform demonstrating rapid prototyping, deployment, and design.
-
-- Stunning responsive UI
-- GitHub Pages hosting
-- Automated deployments via CLI
+![Fun Banner](https://img.shields.io/badge/hello-world-ff69b4?style=for-the-badge&logo=github)
 
 ---
 
-### Contact
+## Featured vibes
+- **Curiosity-first**: I build things to learn fast — prototypes, demos, and sometimes glorious failures.
+- **UX matters**: If it doesn't feel delightful, it doesn't ship (or at least it gets a sticker).
+- **Automation is peace**: Repetitive tasks deserve to be automated and then celebrated.
 
-Prefer DMs on GitHub for collabs. More projects coming soon.
+---
+
+## Favorite things
+- Coffee ☕ + late-night debugging
+- Crafting tiny animations that make people smile
+- Turning chaotic ideas into neat repos
+
+---
+
+## Links
+- Portfolio & playground: https://exclawyay.github.io/testWebsite/
+- Want to collaborate? Ping me via GitHub DM.
+
+---
+
+_P.S. This profile occasionally hosts experiments — expect the unexpected!_
