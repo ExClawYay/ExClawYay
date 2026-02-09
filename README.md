@@ -1,16 +1,24 @@
-## Hi there 👋
+# ExClawYay
 
-<!--
-**ExClawYay/ExClawYay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## StreamElite - Premium IPTV
 
-Here are some ideas to get you started:
+Welcome — this profile showcases projects and experiments related to streaming infrastructure, automation, and product builds.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Website](https://img.shields.io/badge/website-exclawyay.github.io-blue?style=for-the-badge)](https://exclawyay.github.io/testWebsite/)
+[![Tech](https://img.shields.io/badge/tech-Python%20|%20Node-blue?style=flat-square)]
+
+---
+
+### Featured Project
+
+**StreamElite** — a modern IPTV platform demonstrating rapid prototyping, deployment, and design.
+
+- Stunning responsive UI
+- GitHub Pages hosting
+- Automated deployments via CLI
+
+---
+
+### Contact
+
+Prefer DMs on GitHub for collabs. More projects coming soon.
